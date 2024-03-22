@@ -41,7 +41,7 @@ Email: michael.work256@gmail.com
 
 # Мои проекты
 - API позволяющее создать рассылку на почту: https://github.com/ded2322/mailigns_api
-- API позволяющее уникальные генерировать рецепты: https://github.com/ded2322/Neuro-cook-API
+- API позволяющее уникальные генерировать рецепты: https://github.com/ded2322/neuro_cook/tree/master
 - API parody-jira: https://github.com/ded2322/parody-jira/tree/master
 - API интренет магазина: https://github.com/ded2322/website
 - Стеганографический скрипт: https://github.com/ded2322/SteganographyInImage
