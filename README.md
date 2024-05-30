@@ -40,11 +40,16 @@ Email: michael.work256@gmail.com
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ded2322&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ded2322&layout=compact&theme=vision-friendly-dark"/>
 
 # Мои проекты
-### API:
-- API позволяющее создать рассылку на почту: https://github.com/ded2322/mailigns_api
-- API позволяющее уникальные генерировать рецепты: https://github.com/ded2322/neuro_cook/tree/master
-- API parody-jira: https://github.com/ded2322/parody-jira/tree/master
+### Django:
+- Веб-приложение позволяющее уникальные генерировать рецепты: https://github.com/ded2322/neuro_cook/tree/master
+- Веб-приложение позволяющее пользователям загружать и просматривать видео с использованием hls: https://github.com/ded2322/video-streaming
+### FastApi:
+- API чата работающего в реальном времени, на websocket: https://github.com/ded2322/wb_chat
 - API интренет магазина: https://github.com/ded2322/website
+- API parody-jira: https://github.com/ded2322/parody-jira/tree/master
+  -  Упрощенная версия: https://github.com/ded2322/parody-jira
+- API позволяющее создать рассылку на почту: https://github.com/ded2322/mailigns_api
+
 ### Скрипты:
 - Стеганографический скрипт: https://github.com/ded2322/SteganographyInImage
 - ASCII Converter, скрипт позволяющий конверитровать изображение в ascii арт: https://github.com/ded2322/ascii-converter
