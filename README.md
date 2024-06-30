@@ -49,6 +49,7 @@ Email: michael.work256@gmail.com
 - API parody-jira: https://github.com/ded2322/parody-jira/tree/master
   -  Упрощенная версия: https://github.com/ded2322/parody-jira
 - API позволяющее создать рассылку на почту: https://github.com/ded2322/mailigns_api
+- Микросервисный видео хостинг: https://github.com/ded2322/api-gateway
 
 ### Скрипты:
 - Стеганографический скрипт: https://github.com/ded2322/SteganographyInImage
