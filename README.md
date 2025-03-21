@@ -17,12 +17,6 @@ Python Backend Developer.
 
 Разрабатываю Backend-API под разные бизнес задачи.
 
-Связь со мной:
-Telegram: https://t.me/back2322
-
-Email: michael.work256@gmail.com
-
-
 ## Используемый язык
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyton" alt="Python" width="80" height="80"/>&nbsp;
 
