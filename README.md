@@ -7,7 +7,7 @@
 </div>
 
 <h1>
-Привет, меня зовут Михаил
+Привет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -15,7 +15,7 @@
 
 Python Backend Developer.
 
-Разрабатываю Backend-API под разные бизнес задачи.
+Разрабатываю API под бизнес задачи.
 
 ## Используемый язык
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyton" alt="Python" width="80" height="80"/>&nbsp;
