@@ -13,9 +13,7 @@
 
 ### Обо мне:
 
-Python Backend Developer.
-
-Разрабатываю API под бизнес задачи.
+Backend Developer.
 
 ## Используемый язык
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Pyton" alt="Python" width="80" height="80"/>&nbsp;
